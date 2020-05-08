@@ -1,5 +1,3 @@
-**This version is no longer actively maintained, check out the new repository for the latest from the drift team**
-
 # Drift: About and Contributing
 We would love it if you would help contribute! To contribute:
 
