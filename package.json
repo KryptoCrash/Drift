@@ -17,6 +17,7 @@
     "hoek": "^6.0.0",
     "idiotic-api": "^0.2.11",
     "lodash": "^4.17.5",
+    "m3u8stream": "^0.6.5",
     "matchdep": "^2.0.0",
     "mathjs": "^6.0.0",
     "minimatch": "^3.0.2",
@@ -32,7 +33,6 @@
     "strict-uri-encode": "^2.0.0",
     "table": "^5.0.2",
     "urban-dictionary": "^2.2.1",
-    "uws": "^100.0.0",
     "ytdl-core": "^0.28.0"
   },
   "devDependencies": {},
